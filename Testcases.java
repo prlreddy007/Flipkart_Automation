@@ -47,11 +47,7 @@ public class Testcases {
 	    {
 			System.out.println("No calculation popup to display");
 	    } 
-   
-    
-   
-   
-   
+
 	Common_methods.clear_locator(Locator.xpath_type,Locator.origin1);
 	Common_methods.input_method(Locator.xpath_type,Locator.origin1,"LGW");
 	Common_methods.clear_locator(Locator.xpath_type,Locator.destination1);
